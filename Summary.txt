@@ -1,1 +1,12 @@
 https://chatgpt.com/share/673233ec-59c8-8008-9df1-29af1bb52eab
+
+//Libraries
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install opencv-python
+pip install matplotlib
+pip install tensorflow
+pip install keras
+pip install Pillow
+pip install flask
