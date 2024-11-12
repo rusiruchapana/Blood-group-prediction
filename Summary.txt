@@ -9,4 +9,3 @@ pip install matplotlib
 pip install tensorflow
 pip install keras
 pip install Pillow
-pip install flask
