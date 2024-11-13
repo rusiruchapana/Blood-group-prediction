@@ -2,3 +2,5 @@
 fingerprint_env/
 fingerprint_blood_group_model.h5
 my_model.keras
+
+/dataset_blood_group/

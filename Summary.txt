@@ -9,3 +9,6 @@ pip install matplotlib
 pip install tensorflow
 pip install keras
 pip install Pillow
+
+//.NET backend.
+https://chatgpt.com/share/6734871e-1664-8008-ba86-111a53630322

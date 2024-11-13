@@ -1,0 +1,6 @@
+@Blood_prediction_backend_HostAddress = http://localhost:5140
+
+GET {{Blood_prediction_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
