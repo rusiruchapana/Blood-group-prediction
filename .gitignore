@@ -1,0 +1,4 @@
+# Large files
+fingerprint_env/
+fingerprint_blood_group_model.h5
+my_model.keras
