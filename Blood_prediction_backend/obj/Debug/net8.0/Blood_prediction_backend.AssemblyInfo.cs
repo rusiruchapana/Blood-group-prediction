@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blood_prediction_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3a302582af1adb098e13a364f281c2d9601ec6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec72ba993b360377118336532fef924e5a5c58b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blood_prediction_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blood_prediction_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
