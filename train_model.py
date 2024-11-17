@@ -39,7 +39,7 @@ def load_and_preprocess_images(image_dir, img_size=(224, 224)):
     return images, labels
 
 # Load the images and labels
-image_dir = 'C:/Users/Syna/OneDrive/Desktop/Blood-group-prediction/dataset_blood_group'
+image_dir = 'D:/Github projects/Blood-group-prediction/dataset_blood_group'
 X, y = load_and_preprocess_images(image_dir)
 
 # 2. Split the data
