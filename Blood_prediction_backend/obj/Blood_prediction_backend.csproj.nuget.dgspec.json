@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Syna\\OneDrive\\Desktop\\Blood-group-prediction\\Blood_prediction_backend\\Blood_prediction_backend.csproj": {}
+    "D:\\Github projects\\Blood-group-prediction\\Blood_prediction_backend\\Blood_prediction_backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Syna\\OneDrive\\Desktop\\Blood-group-prediction\\Blood_prediction_backend\\Blood_prediction_backend.csproj": {
+    "D:\\Github projects\\Blood-group-prediction\\Blood_prediction_backend\\Blood_prediction_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Syna\\OneDrive\\Desktop\\Blood-group-prediction\\Blood_prediction_backend\\Blood_prediction_backend.csproj",
+        "projectUniqueName": "D:\\Github projects\\Blood-group-prediction\\Blood_prediction_backend\\Blood_prediction_backend.csproj",
         "projectName": "Blood_prediction_backend",
-        "projectPath": "C:\\Users\\Syna\\OneDrive\\Desktop\\Blood-group-prediction\\Blood_prediction_backend\\Blood_prediction_backend.csproj",
-        "packagesPath": "C:\\Users\\Syna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Syna\\OneDrive\\Desktop\\Blood-group-prediction\\Blood_prediction_backend\\obj\\",
+        "projectPath": "D:\\Github projects\\Blood-group-prediction\\Blood_prediction_backend\\Blood_prediction_backend.csproj",
+        "packagesPath": "C:\\Users\\umega\\.nuget\\packages\\",
+        "outputPath": "D:\\Github projects\\Blood-group-prediction\\Blood_prediction_backend\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\Syna\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\umega\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
